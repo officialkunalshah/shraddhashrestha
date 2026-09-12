@@ -17,7 +17,7 @@ window.SITE_CONTENT = {
   // ---------------------------------------------------------
   person: {
     name: "Shraddha Shrestha",
-    email: "makeupwithshraddha79@gmail.com",
+    email: "makeupwithshraddha02@gmail.com",
     social: [
       { label: "Instagram", href: "https://instagram.com/makeupwithshraddha_" },
       { label: "Facebook", href: "https://www.facebook.com/makeupwithshraddha" }
@@ -263,7 +263,7 @@ window.SITE_CONTENT = {
   contact: {
     heading: "Let's Create Your Look",
     intro: "Have an event coming up? Planning your bridal look? Looking for professional makeup for a photoshoot? Get in touch to discuss your requirements and availability.",
-    email: "makeupwithshraddha79@gmail.com",
+    email: "makeupwithshraddha02@gmail.com",
     socialLinks: [
       { label: "Instagram", href: "https://instagram.com/makeupwithshraddha_" },
       { label: "Facebook", href: "https://www.facebook.com/makeupwithshraddha" }
@@ -277,7 +277,7 @@ window.SITE_CONTENT = {
   // ---------------------------------------------------------
   footer: {
     tagline: "Where Beauty Meets Precision.",
-    email: "makeupwithshraddha79@gmail.com",
+    email: "makeupwithshraddha02@gmail.com",
     localTime: { enabled: true, timezone: "Asia/Kathmandu", label: "Kathmandu" },
     legalName: "Shraddha Shrestha",
     year: "2026"
