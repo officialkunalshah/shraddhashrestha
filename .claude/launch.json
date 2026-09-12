@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "shraddha-site",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "5544", "--directory", "C:/Users/offic/OneDrive/Desktop/Shraddha portfolio"],
+      "port": 5544
+    }
+  ]
+}
