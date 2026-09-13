@@ -586,8 +586,8 @@ section {
    10. SELECTED WORK — editorial gallery
    ============================ */
 .work-gallery {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: var(--space-md);
 }
 
@@ -609,18 +609,15 @@ section {
 }
 
 .work-figure--large {
-  flex: 1 1 380px;
   aspect-ratio: 4 / 5;
 }
 
 .work-figure--small {
-  flex: 1 1 270px;
   aspect-ratio: 1 / 1;
-  align-self: flex-end;
 }
 
 .work-figure--wide {
-  flex: 1 1 100%;
+  grid-column: 1 / -1;
   aspect-ratio: 21 / 9;
 }
 
